@@ -1,0 +1,49 @@
+body
+{
+	background: lightblue;
+	font-family: impact;
+}
+
+	#player_one , #player_two
+	{
+		background: white;
+		font-family: impact;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_name1 , #player_name2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+.usa{
+	width: 80%;
+}
+
+#Submit{
+	border-top: 10px solid #AA4465;
+	background-color: white;
+	width: 500px;
+	border-radius: 10px;
+}
